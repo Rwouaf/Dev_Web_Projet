@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fda58cff-7218-4ef0-9a3b-0673eabd3a6a" name="umlv" url="http://etudiant.u-pem.fr">
+        <fileTransfer rootFolder="/mnt/traban_home/3in2/direzdubois/WWW" host="etudiant.u-pem.fr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
