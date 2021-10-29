@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +35,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633431752457</updated>
-      <workItem from="1633431762531" duration="13324000" />
+      <workItem from="1633431762531" duration="14049000" />
+      <workItem from="1635491125389" duration="571000" />
     </task>
+    <task id="LOCAL-00001" summary="insertion bdd fonctionnelle">
+      <created>1633445233667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633445233675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="insertion bdd fonctionnelle" />
+    <option name="LAST_COMMIT_MESSAGE" value="insertion bdd fonctionnelle" />
   </component>
 </project>
