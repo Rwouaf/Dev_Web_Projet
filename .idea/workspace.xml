@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,8 @@
       <updated>1633431752457</updated>
       <workItem from="1633431762531" duration="14049000" />
       <workItem from="1635491125389" duration="571000" />
+      <workItem from="1635492737971" duration="9255000" />
+      <workItem from="1636455533150" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="insertion bdd fonctionnelle">
       <created>1633445233667</created>

@@ -9,6 +9,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6ec48e7c-e8ae-4d2d-8dd0-0660eadfeb85" name="local" url="http://localhost:80">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" port="0" />
+      </webServer>
     </option>
   </component>
 </project>
