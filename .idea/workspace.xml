@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,8 @@
       <workItem from="1635491125389" duration="571000" />
       <workItem from="1635492737971" duration="9255000" />
       <workItem from="1636455533150" duration="465000" />
-      <workItem from="1636702264929" duration="896000" />
+      <workItem from="1636702264929" duration="1204000" />
+      <workItem from="1636723033060" duration="11118000" />
     </task>
     <task id="LOCAL-00001" summary="insertion bdd fonctionnelle">
       <created>1633445233667</created>
@@ -56,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636455724092</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Insertion 100000000 ligne bdd">
+      <created>1636703358762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636703358762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="insertion bdd fonctionnelle" />
-    <option name="LAST_COMMIT_MESSAGE" value="insertion bdd fonctionnelle" />
+    <MESSAGE value="Insertion 100000000 ligne bdd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insertion 100000000 ligne bdd" />
   </component>
 </project>
