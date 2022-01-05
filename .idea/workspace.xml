@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="">
+    <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="json fonctionnel">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,6 +56,13 @@
       <workItem from="1637740199627" duration="5284000" />
       <workItem from="1637825766910" duration="4979000" />
       <workItem from="1637856996543" duration="111000" />
+      <workItem from="1639636105414" duration="13383000" />
+      <workItem from="1639655696793" duration="1252000" />
+      <workItem from="1639735056853" duration="793000" />
+      <workItem from="1639736411252" duration="2420000" />
+      <workItem from="1639740376635" duration="190000" />
+      <workItem from="1641386206574" duration="10054000" />
+      <workItem from="1641396857667" duration="3331000" />
     </task>
     <task id="LOCAL-00001" summary="insertion bdd fonctionnelle">
       <created>1633445233667</created>
