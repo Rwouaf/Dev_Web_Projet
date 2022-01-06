@@ -69,7 +69,8 @@
       <workItem from="1641396857667" duration="3365000" />
       <workItem from="1641453565839" duration="354000" />
       <workItem from="1641453999966" duration="4766000" />
-      <workItem from="1641458826806" duration="5850000" />
+      <workItem from="1641458826806" duration="7196000" />
+      <workItem from="1641468524094" duration="1812000" />
     </task>
     <task id="LOCAL-00001" summary="insertion bdd fonctionnelle">
       <created>1633445233667</created>
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641400325330</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="carte map + filtre">
+      <created>1641464873209</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641464873209</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +125,7 @@
     <MESSAGE value="Insertion 100000000 ligne bdd" />
     <MESSAGE value="json fonctionnel" />
     <MESSAGE value="projet presque fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="projet presque fini" />
+    <MESSAGE value="carte map + filtre" />
+    <option name="LAST_COMMIT_MESSAGE" value="carte map + filtre" />
   </component>
 </project>
