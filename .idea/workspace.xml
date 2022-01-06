@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="json fonctionnel">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+    <list default="true" id="b119cb3e-817b-49c1-a067-d1284660bab4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raph2\PhpstormProjects\ProjetFiles\files" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +66,10 @@
       <workItem from="1639736411252" duration="2420000" />
       <workItem from="1639740376635" duration="190000" />
       <workItem from="1641386206574" duration="10054000" />
-      <workItem from="1641396857667" duration="3331000" />
+      <workItem from="1641396857667" duration="3365000" />
+      <workItem from="1641453565839" duration="354000" />
+      <workItem from="1641453999966" duration="4766000" />
+      <workItem from="1641458826806" duration="5850000" />
     </task>
     <task id="LOCAL-00001" summary="insertion bdd fonctionnelle">
       <created>1633445233667</created>
@@ -92,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636734488416</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="projet presque fini">
+      <created>1641400325330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641400325330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +116,7 @@
     <MESSAGE value="insertion bdd fonctionnelle" />
     <MESSAGE value="Insertion 100000000 ligne bdd" />
     <MESSAGE value="json fonctionnel" />
-    <option name="LAST_COMMIT_MESSAGE" value="json fonctionnel" />
+    <MESSAGE value="projet presque fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="projet presque fini" />
   </component>
 </project>
